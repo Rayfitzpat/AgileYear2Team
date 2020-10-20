@@ -5,5 +5,9 @@ public class Main {
         System.out.println("Test");
 
         System.out.println("Jack is landed");
+
+        Person p = new Person("Ray");
+
+        System.out.println(p.getName());
     }
 }
