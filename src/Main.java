@@ -9,5 +9,9 @@ public class Main {
         Person p = new Person("Ray");
 
         System.out.println(p.getName());
+
+        Person q = new Person("Marcus");
+
+        System.out.println(q.getName());
     }
 }
