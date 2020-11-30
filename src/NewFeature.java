@@ -1,16 +1,16 @@
 public class NewFeature {
-    private int n;
+    private int value;
 
     public NewFeature(int n)
     {
-        this.n = n;
+        this.value = n;
     }
 
     public int getN() {
-        return n;
+        return value;
     }
 
     public void setN(int n) {
-        this.n = n;
+        this.value = n;
     }
 }
