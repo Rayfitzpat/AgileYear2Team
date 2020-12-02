@@ -1,6 +1,6 @@
 public class Feature2 {
-    private int i;
-    private int j;
+    private int value1;
+    private int value2;
     public Feature2()
     {
 
