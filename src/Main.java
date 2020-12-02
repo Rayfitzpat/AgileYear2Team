@@ -15,5 +15,6 @@ public class Main {
         System.out.println(q.getName());
 
         //Merging test
+        System.out.println("Making conflicts");
     }
 }
