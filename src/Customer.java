@@ -1,12 +1,12 @@
 public class Customer {
-    private String address1;
-    private  String address2;
+    private String firstName;
+    private  String lastName;
 
-    public void setAddress(String address) {
-        this.address1 = address1;
+    public void setName(String name) {
+        this.firstName = firstName;
     }
 
-    public String getAddress() {
-        return address1;
+    public String getName() {
+        return firstName;
     }
 }
