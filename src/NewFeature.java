@@ -6,11 +6,11 @@ public class NewFeature {
         this.value = n;
     }
 
-    public int getN() {
+    public int getValue() {
         return value;
     }
 
-    public void setN(int n) {
+    public void setValue(int n) {
         this.value = n;
     }
 }
