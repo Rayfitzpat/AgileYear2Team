@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-        int j = 9;
-        int y = j*2;
+        int num1 = 9;
+        int num2 = num1 * 2;
     }
 }
